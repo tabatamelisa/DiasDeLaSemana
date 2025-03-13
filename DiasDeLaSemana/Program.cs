@@ -11,7 +11,7 @@ namespace DiasDeLaSemana
         static void Main(string[] args)
         {
             //validar el día de la semana correspondiente al número ingresado
-            //Andy Garzón
+            //Tabata Vernaza
             int dia;
             do
             {
