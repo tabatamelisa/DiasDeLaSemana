@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\22-09\DiasDeLaSemana\DiasDeLaSemana\obj\Debug\DiasDeLaSemana.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\22-09\DiasDeLaSemana\DiasDeLaSemana\obj\Debug\DiasDeLaSemana.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\22-09\DiasDeLaSemana\DiasDeLaSemana\bin\Debug\DiasDeLaSemana.exe.config
+C:\Users\Usuario\Desktop\22-09\DiasDeLaSemana\DiasDeLaSemana\bin\Debug\DiasDeLaSemana.exe
+C:\Users\Usuario\Desktop\22-09\DiasDeLaSemana\DiasDeLaSemana\bin\Debug\DiasDeLaSemana.pdb
+C:\Users\Usuario\Desktop\22-09\DiasDeLaSemana\DiasDeLaSemana\obj\Debug\DiasDeLaSemana.exe
+C:\Users\Usuario\Desktop\22-09\DiasDeLaSemana\DiasDeLaSemana\obj\Debug\DiasDeLaSemana.pdb
